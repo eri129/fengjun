@@ -19,5 +19,10 @@
     {%- include footer.html -%}
 
     </div>
+
+    {% if site.javascript_enabled %}
+      <script src="{{ '/assets/newTab.js' | relative_url }}"></script>
+    {% endif %}
+
   </body>
 </html>

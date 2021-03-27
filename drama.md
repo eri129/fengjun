@@ -10,7 +10,7 @@ layout: page
 <div class="iframe-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/VmFNOwn4e3I" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### Bilibili
-[盛势1~5集](https://b23.tv/D2JQAt) / [6~10集](https://b23.tv/e0gXCx) / [11~15集](https://b23.tv/Z4VoZQ) / [16~20集](https://b23.tv/D1L0ae) / [21~25集](https://b23.tv/inNmNz) / [25~30集(大结局)](https://b23.tv/QNZkFf)
+[盛势1~5集](https://b23.tv/D2JQAt) / [6~10集](https://b23.tv/e0gXCx) / [11~15集](https://b23.tv/Z4VoZQ) / [16~20集](https://b23.tv/D1L0ae) / [21~25集](https://b23.tv/inNmNz?_blank) / [25~30集(大结局)](https://b23.tv/QNZkFf)
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=838645625&bvid=BV1Hg4y1v7qd&cid=207342907&page=1&high_quality=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ## 《盛势》cut
