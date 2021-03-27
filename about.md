@@ -4,6 +4,5 @@ layout: page
 permalink: /about.html
 ---
 
-# 关于这个网站
-
-asjdfkajshdfkajshdlfkjahslkdfjhs
+此网站陈列关于网剧《盛势》/粽妖/峰峻cp的花絮、正剧、直播、饭制剪辑等
+仅供个人收藏、查阅使用
