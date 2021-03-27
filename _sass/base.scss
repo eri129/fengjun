@@ -49,6 +49,16 @@ footer { margin-bottom: 20px; }
 	letter-spacing: 2px;
 }
 
+@media only screen and (max-device-width: 500px) { 
+	.site-title { 
+		font-weight: bold;
+		font-size:20px;
+		letter-spacing: 2px;
+/*		font-size: $mobile-font-size !important; 
+*/	} 
+}
+
+
 main {
 	padding: 0px 10px;
 }
