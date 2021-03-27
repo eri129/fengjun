@@ -2,7 +2,8 @@ title: "妖颜惑纵"
 name: "妖颜惑纵"
 description: "关于盛势(粽妖/峰峻cp)的花絮、正剧、直播、饭制剪辑等汇总"
 
-url: ""
+# url: ""
+baseurl: "/fengjun"
 
 #google_analytics: UA-NNNNNNNN-N
 
