@@ -1,7 +1,7 @@
 ---
 title: 更新记录
 layout: page
-permalink: /changelog.html
 ---
 
-[ 2021-03-26 ] 建立网站模板，发布成功
+[ 2021-03-26 ] 制定网站模板，测试发布成功
+
