@@ -1,22 +1,24 @@
 ---
 title: 正剧
 layout: page
-permalink: /drama.html
 ---
 
+## 《盛势》全集
 
-有待更新...
+### Youtube
+播放列表：[https://goo.gl/7MRLUN](https://goo.gl/7MRLUN)
+<div class="iframe-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/VmFNOwn4e3I" frameborder="no" allowfullscreen="true"></iframe></div>
 
-## 正剧全集
+### Bilibili
+[盛势1~5集](https://b23.tv/D2JQAt) / [6~10集](https://b23.tv/e0gXCx) / [11~15集](https://b23.tv/Z4VoZQ) / [16~20集](https://b23.tv/D1L0ae) / [21~25集](https://b23.tv/inNmNz) / [25~30集(大结局)](https://b23.tv/QNZkFf)
+<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=838645625&bvid=BV1Hg4y1v7qd&cid=207342907&page=1&high_quality=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
-Youtube
-
-<div class="iframe-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/-FHc_lZ6jJY" frameborder="no" allowfullscreen="true"> </iframe></div>
-
-<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=838645625&bvid=BV1Hg4y1v7qd&cid=207342907&page=1" frameborder="no" allowfullscreen="true"> </iframe></div>
+## 《盛势》cut
+粽妖主线剧情cut
+<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=887042706&bvid=BV1FK4y1n7KV&cid=308357368&page=1&high_quality=1" frameborder="no" allowfullscreen="true" high_quality=1></iframe></div>
 
 <div class="iframe-container">
-<iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=82312771&bvid=BV1wJ411j7ns&cid=140832040&page=1" frameborder="no" allowfullscreen="true"> </iframe>
+<iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=8568698&bvid=BV1Jx41127Kc&cid=14109111&page=1&high_quality=1" frameborder="no" scrolling="no" allowfullscreen="true" ></iframe>
 </div>
 
-## cut
+
