@@ -49,6 +49,10 @@ header {
    margin-right: auto;  
    margin-left: auto;
 }
+main {
+	margin-top: 95px;
+}
+
 
 .site-header{
 	position: relative;
@@ -76,11 +80,6 @@ header {
 
 main {
 	padding: 0px 10px;
-}
-
-/*fixed header menu*/
-main {
-	margin-top: 95px;
 }
 
 h1 {
@@ -131,11 +130,16 @@ h3 {
 .menu ul li a { text-decoration: none;  color: var(--text-color); }
 .menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
 
-.bottom-menu{
+/* use when there is no nav in bottom */
+/*.bottom-menu{
 	border-top: var(--border);  
 	border-bottom: var(--border); 
 	margin-bottom: 25px;
 	padding:12px 0px;
+}*/
+
+.bottom-menu{
+	margin-top: -15px;
 }
 
 
