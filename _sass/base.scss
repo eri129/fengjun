@@ -51,10 +51,7 @@ footer { margin-bottom: 20px; }
 
 @media only screen and (max-device-width: 500px) { 
 	.site-title { 
-		font-weight: bold;
-		font-size:20px;
-		letter-spacing: 2px;
-/*		font-size: $mobile-font-size !important; 
+		position:relative !important;
 */	} 
 }
 
