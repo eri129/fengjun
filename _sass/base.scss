@@ -8,8 +8,8 @@ $base-font-family:     'Source Code Pro', monospace !default;
 $base-font-size:       15px !default;
 $mobile-font-size:     16px !default;
 $base-line-height:     1.5 !default;
-$container-width:      90% !default;
-$container-max-width:  600px !default;
+$container-width:      100% !default;
+$container-max-width:  680px !default;
 
 /**
  * Global
@@ -29,24 +29,41 @@ p { word-wrap: break-word;  word-break: break-word;  white-space: pre-wrap; marg
 footer { color: var(--text-color);  
 	/* border-top: var(--border);*/
 	margin: 20px auto 15px;  padding-top: 10px;  text-align: right; }
-header { margin-top: 25px;  margin-bottom: 10px; }
+header { margin-top: 25px; margin-bottom: 10px;  }
 header p { text-align: left;  margin: 0; }
 footer { margin-bottom: 20px; }
 
+/* fixed header */
+header {
+   position: fixed;
+   top: 0;
+   right: 0;
+   left: 0;
+   background-color: var(--background-color);
+   z-index: 5;
+   padding: 25px 5px 0px 5px;
+   height:50px;
+   margin:0px;
+   width: $container-width;  
+   max-width: $container-max-width;  
+   margin-right: auto;  
+   margin-left: auto;
+}
 
-.site-header {
-   position: relative;
+.site-header{
+	position: relative;
 }
 
 .site-title {
 	position: absolute;
-	top : 8px;
+	top : 10px;
 	left : 10px ;
 	font-weight: bold;
 	font-size:20px;
 /*	font-family: Serif;
 	src: font-url('./font/STFHSJKJW.TTF');*/
 	letter-spacing: 2px;
+	background-color: var(--background-color);
 }
 
 .site-title a {
@@ -73,6 +90,11 @@ main {
 	padding: 0px 10px;
 }
 
+/*fixed header menu*/
+main {
+	margin-top: 95px;
+}
+
 h1 {
 	font-size:18px;
 /*	color: #337016;
@@ -82,9 +104,16 @@ h1 {
 }
 
 h2 {
-	font-size: 15px;
-	margin: 10px 0px 5px 0px;
+	font-size: 16px;
+	margin: 20px 0px 5px 0px;
 }
+
+h3 {
+	font-size: 14px;
+	margin: 15px 0px 5px 0px;
+}
+
+
 
 
 /**

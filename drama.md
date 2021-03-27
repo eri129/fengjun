@@ -14,11 +14,7 @@ layout: page
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=838645625&bvid=BV1Hg4y1v7qd&cid=207342907&page=1&high_quality=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ## 《盛势》cut
-粽妖主线剧情cut
-<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=887042706&bvid=BV1FK4y1n7KV&cid=308357368&page=1&high_quality=1" frameborder="no" allowfullscreen="true" high_quality=1></iframe></div>
-
-<div class="iframe-container">
-<iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=8568698&bvid=BV1Jx41127Kc&cid=14109111&page=1&high_quality=1" frameborder="no" scrolling="no" allowfullscreen="true" ></iframe>
-</div>
+[粽妖主线剧情cut(1-30p)](https://www.bilibili.com/video/BV1FK4y1n7KV/)
+<div class="iframe-container"><iframe class="responsive-iframe" src="https://player.bilibili.com/player.html?aid=887042706&bvid=BV1FK4y1n7KV&cid=308357368&page=1&high_quality=1" frameborder="no" allowfullscreen="true" high_quality=1></iframe></div>
 
 
