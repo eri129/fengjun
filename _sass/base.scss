@@ -107,6 +107,13 @@ h4 {
 	margin: 10px 0px 5px 0px;
 }
 
+/* novel ch title */
+h5 {
+	font-size: $base-font-size;  
+	color: var(--text-color);
+	margin: 60px 0px 30px 0px;
+}
+
 /*.line {
 	background-image: url(line.png);
 	background-repeat: no-repeat;
@@ -200,6 +207,13 @@ textarea { vertical-align: top; }
   height: 100%;
 }
 
+.warn {
+	color:var(--warn-color);
+}
+
+.text-hidden{
+	color: #bfbfbf;
+}
 
 
 /* style for mobile */
