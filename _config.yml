@@ -19,6 +19,12 @@ header_pages:
   - more.md
   - about.md
 
+collections:
+  novels:
+    title: Novels
+    default_open: true
+    output: true
+
 style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
 
