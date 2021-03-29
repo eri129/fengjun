@@ -23,6 +23,7 @@ permalink: /
 ## 《盛势》花絮
 
 ### ⇨ [U盘花絮合集](https://www.bilibili.com/video/BV1sx411E7H2)
+#### P1: 俊俊的滑板鞋
 #### P2: 片场内
 * 0:00 雨夜床咚拍摄花絮
 * 1:48 咬耳朵拍摄花絮
@@ -87,10 +88,11 @@ permalink: /
 来自俊俊的“灵魂发问”：“嗑到了吗？”
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=289389234&bvid=BV1tf4y167XT&cid=303659530&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
-### ⇨ [越来越喜欢他了](https://www.bilibili.com/video/BV1rW411s7ky?p=3)
+### ⇨ [越来越喜欢他了](https://www.bilibili.com/video/BV1L4411N7Yx)
 原出处不明
+[字幕版](https://www.bilibili.com/video/BV1rW411s7ky?p=3)
 峰哥：“他其实真的不会演戏，越来越喜欢他了。” 
-<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=20216990&bvid=BV1rW411s7ky&cid=33013362&page=3" frameborder="no" allowfullscreen="true"></iframe></div>
+<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=55056134&bvid=BV1L4411N7Yx&cid=96276600&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ [俊俊踢徐峰头发](https://www.bilibili.com/video/BV1rW411s7ky?p=4)
 原出处不明
