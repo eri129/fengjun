@@ -10,12 +10,13 @@ permalink: /
 
 #### 索引
 ### [《盛势》花絮](#盛势花絮)
-* [U盘花絮合集](#-u盘花絮合集) / [一些名场面cut](https://www.bilibili.com/video/BV1py4y177Dw/)
+* [U盘花絮合集](#-u盘花絮合集) / [名场面cut](https://www.bilibili.com/video/BV1py4y177Dw/)
 * [杀青宴直通车](#-点击直通杀青宴的抱抱)
 * [黄河游零食戏花絮](#-黄河游零食戏花絮)
 * [千里追夫熊抱花絮](#-千里追夫熊抱花絮)
 * [越来越喜欢他了](#-越来越喜欢他了)
 * [俊俊踢徐峰头发](#-俊俊踢徐峰头发)
+* [粽妖躺床玩手机花絮](#-粽妖躺床玩手机花絮)
 <div class="line"></div>
 
 
@@ -94,6 +95,11 @@ permalink: /
 ### ⇨ [俊俊踢徐峰头发](https://www.bilibili.com/video/BV1rW411s7ky?p=4)
 原出处不明
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=20216990&bvid=BV1rW411s7ky&cid=33013379&page=4" frameborder="no" allowfullscreen="true"></iframe></div>
+
+### ⇨ [粽妖躺床玩手机花絮](https://weibo.com/5991275780/G5Ox1lK2t)
+原出处盛势官博
+<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=20360790&bvid=BV1iW411x758&cid=33271229&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
+
 
 <div class="line"></div>
 
