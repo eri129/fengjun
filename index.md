@@ -10,10 +10,10 @@ permalink: /
 
 #### 索引
 ### [《盛势》花絮](#盛势花絮)
-*  [U盘花絮合集](#u盘花絮合集)
-
-
-
+* [U盘花絮合集](#-u盘花絮合集) / [一些名场面cut](https://www.bilibili.com/video/BV1py4y177Dw/)
+* [杀青宴直通车](#-点击直通杀青宴的抱抱)
+* [黄河游零食戏花絮](#-黄河游零食戏花絮)
+* [千里追夫熊抱花絮](#-千里追夫熊抱花絮)
 <div class="line"></div>
 
 
@@ -72,15 +72,26 @@ permalink: /
 * 41:08 【名场面】杀青宴的拥抱
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=15899252&bvid=BV1sx411E7H2&cid=25947256&page=3" frameborder="no" allowfullscreen="true"></iframe></div>
 
+### ⇨ [点击直通杀青宴的抱抱](https://www.bilibili.com/video/BV1WA411J7Hp/)
+<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=329689319&bvid=BV1WA411J7Hp&cid=239876655&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
+
+### ⇨ [黄河游零食戏花絮](https://www.bilibili.com/video/BV16h411k7Xa)
+原出处来自徐峰抖音
+<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=204419498&bvid=BV16h411k7Xa&cid=303671382&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
+
+### ⇨ [千里追夫熊抱花絮](https://weibo.com/5991275780/G4tqhiBkw)
+原出处盛势官博
+来自俊俊的“灵魂发问”：“嗑到了吗？”
+<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=289389234&bvid=BV1tf4y167XT&cid=303659530&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div class="line"></div>
 
 ## 见面会 / 点映会
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+<div class="line"></div>
 
 ## 直播
 

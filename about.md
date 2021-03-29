@@ -10,8 +10,8 @@ layout: page
 ## 相关链接
 
 - 官方微博：[盛势影视剧](https://weibo.com/u/5991275780)
-- 演员徐峰微博：[徐峰jason](https://weibo.com/jasonxufeng777777) / Instagram: [jasonxuofficial](https://www.instagram.com/jasonxuofficial/) 旧号: [jasonxu7](https://www.instagram.com/jasonxu7/)
-- 演员龚俊微博：[龚俊Simon](https://weibo.com/u/2172061270) / Instagram: [gongjunhahaha](https://www.instagram.com/gongjunhahaha/)
+- 演员徐峰**微博**：[徐峰jason](https://weibo.com/jasonxufeng777777) / **抖音**：[Jason777徐峰(id:Jasonxf0212)](https://v.douyin.com/eYFS8gc/) / **Instagram**: [jasonxuofficial](https://www.instagram.com/jasonxuofficial/) 旧号: [jasonxu7](https://www.instagram.com/jasonxu7/) 
+- 演员龚俊**微博**：[龚俊Simon](https://weibo.com/u/2172061270) / **抖音**：[龚俊Simon(id:202484823)](https://v.douyin.com/eYFaSDy/) / **Instagram**: [gongjunhahaha](https://www.instagram.com/gongjunhahaha/)
 - [盛势超话](https://weibo.com/p/100808e2fe3019b0d8e7c153aaa982f9313dba)
 - 峰俊cp超话: [峰俊夫夫日常](https://weibo.com/p/100808d758ab2fbff1ea363fbbe3fff08db427)
 - 原作者柴鸡蛋微博：[柴鸡蛋FM](https://weibo.com/u/3672516770)
