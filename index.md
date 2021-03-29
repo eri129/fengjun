@@ -14,6 +14,8 @@ permalink: /
 * [杀青宴直通车](#-点击直通杀青宴的抱抱)
 * [黄河游零食戏花絮](#-黄河游零食戏花絮)
 * [千里追夫熊抱花絮](#-千里追夫熊抱花絮)
+* [越来越喜欢他了](#-越来越喜欢他了)
+* [俊俊踢徐峰头发](#-俊俊踢徐峰头发)
 <div class="line"></div>
 
 
@@ -84,17 +86,22 @@ permalink: /
 来自俊俊的“灵魂发问”：“嗑到了吗？”
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=289389234&bvid=BV1tf4y167XT&cid=303659530&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
+### ⇨ [越来越喜欢他了](https://www.bilibili.com/video/BV1rW411s7ky?p=3)
+原出处不明
+峰哥：“他其实真的不会演戏，越来越喜欢他了。” 
+<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=20216990&bvid=BV1rW411s7ky&cid=33013362&page=3" frameborder="no" allowfullscreen="true"></iframe></div>
+
+### ⇨ [俊俊踢徐峰头发](https://www.bilibili.com/video/BV1rW411s7ky?p=4)
+原出处不明
+<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=20216990&bvid=BV1rW411s7ky&cid=33013379&page=4" frameborder="no" allowfullscreen="true"></iframe></div>
 
 <div class="line"></div>
 
 ## 见面会 / 点映会
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 <div class="line"></div>
 
 ## 直播
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
