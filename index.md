@@ -10,13 +10,16 @@ permalink: /
 
 #### 索引
 ### [《盛势》花絮](#盛势花絮)
-* [U盘花絮合集](#-u盘花絮合集) / [名场面cut](https://www.bilibili.com/video/BV1py4y177Dw/)
-* [杀青宴直通车](#-点击直通杀青宴的抱抱)
-* [黄河游零食戏花絮](#-黄河游零食戏花絮)
+* [U盘花絮合集](#-u盘花絮合集) / [名场面cut](https://www.bilibili.com/video/BV1py4y177Dw/) / [杀青宴直通车](#-点击直通杀青宴的抱抱)
+* [黄河零食戏花絮](#-黄河游零食戏花絮)
 * [千里追夫熊抱花絮](#-千里追夫熊抱花絮)
 * [粽妖躺床玩手机花絮](#-粽妖躺床玩手机花絮)
 * [越来越喜欢他了](#-越来越喜欢他了)
 * [俊俊踢徐峰头发](#-俊俊踢徐峰头发)
+* [黄河杀青戏花絮](#-黄河杀青戏花絮)
+* [妖儿一笑倾城](#-妖儿一笑倾城)
+* [CHOCO TV单人宣传](https://www.bilibili.com/video/BV16W41177e9) / [俊俊中秋宣传](https://www.bilibili.com/video/BV1Ms411475J?p=1)
+* [一些零散花絮](https://www.bilibili.com/video/BV1Ms411475J) / [泳池戏摄影机花絮](https://www.bilibili.com/video/BV1sx411i7jr?p=4) / [王治禹水花絮](https://weibo.com/5991275780/FjPm6lgxT)
 
 <div class="line"></div>
 
@@ -30,7 +33,7 @@ permalink: /
 * 1:48 咬耳朵拍摄花絮
 * 5:13 纵妖倒床拍摄花絮
 * 8:00 大雨瓢泼拍摄花絮
-* 12:38 挖藕拍摄花絮
+* 12:38 挖藕拍摄花絮 - [高清版](https://www.bilibili.com/video/BV1JW411R7sg)
 * 18:23 酸梨沙发咚拍摄花絮(20:33开始正片)
 * 23:15 夏耀窗台赶袁纵一屋子人穿帮花絮
 * 24:05 袁纵雨中搏斗花絮
@@ -48,7 +51,7 @@ permalink: /
 * 6:01 俊俊给峰哥举小风扇，场面一度很污；峰哥背台词超级搞笑；峰哥说小风扇要包邮才给你买，俊俊叹气：“这点都舍不得，这日子没法过了，离婚吧！”
 * 7:31 峰俊在研究能量棒，峰哥纠正俊俊的普通话，俊俊被三台手机吓到：“我们有好多污的话可千万别放。”
 * 8:19 峰哥唱《因为爱情》，狂唱“啪啪啪啪啪”
-* 8:45 俊俊找峰哥对“可我不喜欢你的鸟”那场戏害羞到直不起身
+* 8:45 俊俊找峰哥对“可我不喜欢你的鸟”那场戏害羞到直不起身 - [官博版](https://weibo.com/5991275780/FpTGXbYXa)
 * 9:45 剧组日常聊天，峰哥拍俊俊脚踝
 * 10:31 【名场面】俊俊撒娇不想念台词向后一倒抬脚：“舔脚！”，峰哥苦口婆心：“傻叉。我在教你怎么断句呢”
 * 11:38 峰哥唱歌，俊俊一边吃能量棒一边背台词；大家一起吃能量棒，峰哥传授吃法。
@@ -69,7 +72,7 @@ permalink: /
 * 30:29 俊俊睡着
 * 31:17 俊俊绝美补妆 + 吃能量棒
 * 31:39 峰哥背影帅断腿
-* 32:05 采访剧组人员 
+* 32:05 执行导演采访 
 * 33:48 大粽子偷梁换柱拍摄花絮
 * 34:21 化妆师给俊俊化伤妆
 * 34:51 泳池戏，背后抱
@@ -84,26 +87,32 @@ permalink: /
 原出处来自徐峰本人
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=204419498&bvid=BV16h411k7Xa&cid=303671382&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
-### ⇨ [千里追夫熊抱花絮](https://weibo.com/5991275780/G4tqhiBkw)
-原出处盛势官博
+### ⇨ [千里追夫熊抱花絮](https://www.bilibili.com/video/BV1tf4y167XT)
+原出处[盛势官博](https://weibo.com/5991275780/G4tqhiBkw)
 来自俊俊的“灵魂发问”：“嗑到了吗？”
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=289389234&bvid=BV1tf4y167XT&cid=303659530&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
-### ⇨ [粽妖躺床玩手机花絮](https://weibo.com/5991275780/G5Ox1lK2t)
-原出处盛势官博
+### ⇨ [粽妖躺床玩手机花絮](https://www.bilibili.com/video/BV1iW411x758)
+原出处[盛势官博](https://weibo.com/5991275780/G5Ox1lK2t)
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=20360790&bvid=BV1iW411x758&cid=33271229&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ [越来越喜欢他了](https://www.bilibili.com/video/BV1L4411N7Yx)
-原出处不明
+原出处[盛势官博](https://weibo.com/5991275780/FnDo860U3)
 [字幕版](https://www.bilibili.com/video/BV1rW411s7ky?p=3)
-峰哥：“他其实真的不会演戏，越来越喜欢他了。” 
+峰哥：“他其实真的不会演戏……越来越喜欢他了。” 
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=55056134&bvid=BV1L4411N7Yx&cid=96276600&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ [俊俊踢徐峰头发](https://www.bilibili.com/video/BV1rW411s7ky?p=4)
-原出处不明
+原出处[盛势官博](https://weibo.com/5991275780/EctGjiL8g)
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=20216990&bvid=BV1rW411s7ky&cid=33013379&page=4" frameborder="no" allowfullscreen="true"></iframe></div>
 
+### ⇨ [黄河杀青戏花絮](https://www.bilibili.com/video/BV1Ms411475J?p=2)
+原出处不明
+<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=6646324&bvid=BV1Ms411475J&cid=10817826&page=2" frameborder="no" allowfullscreen="true"></iframe></div>
 
+### ⇨ [妖儿一笑倾城](https://www.bilibili.com/video/BV1Ms411475J?p=13)
+原出处[盛势官博](https://weibo.com/5991275780/Fx0SUtrhC)
+<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=6646324&bvid=BV1Ms411475J&cid=27376638&page=13" frameborder="no" allowfullscreen="true"></iframe></div>
 
 <div class="line"></div>
 
