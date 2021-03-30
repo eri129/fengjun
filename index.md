@@ -6,7 +6,7 @@ permalink: /
 *本站是cp向物料汇总站*
 *建议浏览前先阅读[关于]({{ site.baseurl }}/about.html)板块，以免踩雷*
 
-*本页物料参考了[@用户7271501341](https://weibo.com/u/7271501341)的[整理帖](https://weibo.com/7271501341/K7XD8ClQ1)*
+*本页物料参考了[@大雾散去ing](https://weibo.com/u/7271501341)的[整理帖](https://weibo.com/7271501341/K8BR1fcHs)*
 
 #### 索引
 ### [《盛势》花絮](#盛势花絮)
@@ -20,6 +20,8 @@ permalink: /
 * [妖儿一笑倾城](#-妖儿一笑倾城)
 * [CHOCO TV单人宣传](https://www.bilibili.com/video/BV16W41177e9) / [俊俊中秋宣传](https://www.bilibili.com/video/BV1Ms411475J?p=1)
 * [一些零散花絮](https://www.bilibili.com/video/BV1Ms411475J) / [泳池戏摄影机花絮](https://www.bilibili.com/video/BV1sx411i7jr?p=4) / [王治禹水花絮](https://weibo.com/5991275780/FjPm6lgxT)
+### [点映会 / 见面会](#点映会-见面会)
+* [20170408 上海盛势首映会](#-20170408-上海盛势首映会)
 
 <div class="line"></div>
 
@@ -99,7 +101,7 @@ permalink: /
 ### ⇨ [越来越喜欢他了](https://www.bilibili.com/video/BV1L4411N7Yx)
 原出处[盛势官博](https://weibo.com/5991275780/FnDo860U3)
 [字幕版](https://www.bilibili.com/video/BV1rW411s7ky?p=3)
-峰哥：“他其实真的不会演戏……越来越喜欢他了。” 
+徐峰：“他其实真的不会演戏……越来越喜欢他了。” 
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=55056134&bvid=BV1L4411N7Yx&cid=96276600&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ [俊俊踢徐峰头发](https://www.bilibili.com/video/BV1rW411s7ky?p=4)
@@ -116,7 +118,10 @@ permalink: /
 
 <div class="line"></div>
 
-## 见面会 / 点映会
+## 点映会 / 见面会
+### ⇨ [20170408 上海盛势首映会]
+到场演员：龚俊、徐峰、蒙恩、梁雪峰、陈汛、徐鹤尼、殷飞
+
 
 <div class="line"></div>
 

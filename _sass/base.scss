@@ -211,6 +211,11 @@ textarea { vertical-align: top; }
   height: 100%;
 }
 
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
 .warn {
 	color:var(--warn-color);
 }

@@ -19,7 +19,7 @@ layout: page
 
 [ 2017-04-08 ]  上海盛势首映会（龚俊、徐峰、蒙恩、梁雪峰、陈汛、徐鹤尼、殷飞）
 
-[ 2017-08-12 ] 徐峰现身盛势点映会上海场
+[ 2017-08-12 ]  徐峰现身盛势点映会上海场
 
 [ 2017-08-27 ]  北京观影场（徐峰、李乔丹、陈汛、徐鹤尼、殷飞）
 
@@ -29,6 +29,6 @@ layout: page
 
 [ 2018-03-06 ] 《盛势》收官
 
-<img src="https://tva1.sinaimg.cn/large/008eGmZEly1gp20k1tz3kj30ta0cwtg4.jpg" alt="image-20210330013103967" style="zoom:50%;" />
+![image-20210330102347142](https://tva1.sinaimg.cn/large/008eGmZEly1gp2fyn40u0j30ti0cetg3.jpg)
 
-<img src="https://tva1.sinaimg.cn/large/008eGmZEly1gp20kpeu65j30wk0bgtbh.jpg" alt="image-20210330013152600" style="zoom:50%;" />
+<img src="https://tva1.sinaimg.cn/large/008eGmZEly1gp20kpeu65j30wk0bgtbh.jpg" alt="image-20210330013152600" />
