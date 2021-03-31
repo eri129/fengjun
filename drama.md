@@ -10,7 +10,9 @@ layout: page
 * [剧情索引](#剧情索引)
 
 ## 预告
-[《盛势》人物版先导预告片](https://www.bilibili.com/video/BV1Fs411k7v3) (原声)
+[《盛势》人物版先导预告片](https://www.bilibili.com/video/BV1Fs411k7v3) (原声) 
+
+[剧情版完整预告](https://www.bilibili.com/video/BV1gs411t7pH)(后因未能在腾讯播出已被删除,这是b站备份)
 
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=5842556&bvid=BV1Fs411k7v3&cid=9487570&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
