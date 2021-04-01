@@ -92,7 +92,7 @@ permalink: /
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=329689319&bvid=BV1WA411J7Hp&cid=239876655&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ [黄河游零食戏花絮](https://www.bilibili.com/video/BV16h411k7Xa)
-原出处来自徐峰本人
+原出处来自徐峰本人**（包括bgm）**
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=204419498&bvid=BV16h411k7Xa&cid=303671382&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ [千里追夫熊抱花絮](https://www.bilibili.com/video/BV1tf4y167XT)
