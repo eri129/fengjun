@@ -21,10 +21,10 @@ permalink: /fanvid.html
 ### [单人剪辑](#单人剪辑-1)
 * [徐峰个人快剪 by粉丝后援会](#-徐峰个人快剪bgmdtm)（BGM：D.T.M）
 * [温客行 - 真不能怪我站错 byY易燃装置X](#-温客行真不能怪我站错bgm广寒宫)（BGM：广寒宫）
-* [山河令温客行cut](https://www.bilibili.com/video/BV185411P7z1)
 
 ### 误解系剪辑
 等待着有太太剪出跨越时空的同框！<span class="text-hidden text-delete">（等到猴年马月也没人也许哪天站长就自己上了）</span>
+* [霸道总裁的落跑新娘（30s）](https://weibo.com/6292672949/K5K1l7R5M)
 
 
 
