@@ -3,6 +3,7 @@ title: 剪辑
 layout: page
 permalink: /fanvid.html
 ---
+*注意：本页内容完全按站长个人喜好推荐与收录* 
 
 #### 索引
 ### [峰俊剪辑](#峰俊剪辑-1)
@@ -18,8 +19,6 @@ permalink: /fanvid.html
 * [激情解说《盛势》\| 龚俊：谁还不曾是个烈女 by废人阿走](https://www.bilibili.com/video/BV1x64y1D7fc)
 
 ### [单人剪辑](#单人剪辑-1)
-*注意：这一部分完全按站长个人喜好推荐与收录* 
-
 * [徐峰个人快剪 by粉丝后援会](#-徐峰个人快剪bgmdtm)（BGM：D.T.M）
 * [温客行 - 真不能怪我站错 byY易燃装置X](#-温客行真不能怪我站错bgm广寒宫)（BGM：广寒宫）
 * [山河令温客行cut](https://www.bilibili.com/video/BV185411P7z1)
