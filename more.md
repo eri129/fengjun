@@ -9,10 +9,11 @@ layout: page
 ### 嗑学家
 * [豆瓣豆列：关于盛势](https://www.douban.com/doulist/136966703/)
 * [豆瓣：考据情侣ID/习惯/粉丝群夸俊俊](https://www.douban.com/group/topic/214848281/)
-* 
-
-
-
+* [豆瓣高楼：考古微博互动](https://www.douban.com/group/topic/214578477/)
+* [豆瓣：他其实真的不会演戏 - 嗑花絮指南](https://www.douban.com/group/topic/213663222/)
+* [豆瓣：关于俊俊看过原作小说这件事的传说](https://www.douban.com/group/topic/214354591/)
+### 同人
+<span class="text-hidden">这个页面真的只是站长的个人收藏用：</span>[同人通道]({{ site.baseurl }}/fandom.html) 
 
 
 ## 时间线
