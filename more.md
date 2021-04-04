@@ -7,14 +7,13 @@ layout: page
 
 ### [时间线](#时间线-1)
 ### 嗑学家
-* [豆瓣豆列 \| 关于盛势](https://www.douban.com/doulist/136966703/)
-* [豆瓣 \| 他其实真的不会演戏 - 嗑花絮指南](https://www.douban.com/group/topic/213663222/)
-* [豆瓣 \| 情侣ID考据](https://www.douban.com/group/topic/214848281/)
-* [豆瓣高楼 \| 微博互动考古](https://www.douban.com/group/topic/214578477/)
-* [微博 \| 微博互动考古](https://m.weibo.cn/6292672949/4612959936972677)
-* [lof \| 峰哥在粉丝群cue俊俊 ](https://hudanni1221.lofter.com/post/1f6470a7_1cbb707b6)
-* [微博 \| 他对他的影响](https://m.weibo.cn/6292672949/4613290137229798)
-* [豆瓣 \| 关于俊俊看过原作小说这件事的传说](https://www.douban.com/group/topic/214354591/)
+* [豆瓣豆列：关于盛势](https://www.douban.com/doulist/136966703/)
+* [豆瓣 ：他其实真的不会演戏 - 嗑花絮指南](https://www.douban.com/group/topic/213663222/)
+* [豆瓣：情侣ID考据](https://www.douban.com/group/topic/214848281/)
+* [豆瓣高楼：微博互动考古](https://www.douban.com/group/topic/214578477/) / [微博：微博互动考古](https://m.weibo.cn/6292672949/4612959936972677)
+* [lof：峰哥在粉丝群cue俊俊 ](https://hudanni1221.lofter.com/post/1f6470a7_1cbb707b6)
+* [微博：他对他的影响](https://m.weibo.cn/6292672949/4613290137229798)
+* [豆瓣：关于俊俊看过原作小说这件事的传说](https://www.douban.com/group/topic/214354591/)
 
 <div class="text-hidden">—— 我是硬糖分割线 ——</div> 
 
