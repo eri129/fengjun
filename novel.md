@@ -22,6 +22,7 @@ layout: page
 <li><a class="text-hidden" href="{{ site.baseurl }}/novels/ch60-89.html">chapter 60-89(找借口蹭被窝~胳膊肘往外拐)</a></li>
 <li><a class="text-hidden" href="{{ site.baseurl }}/novels/ch90-121.html">chapter 90-121(换人后遗症~矛盾化解)</a></li>
 <li><a class="text-hidden" href="{{ site.baseurl }}/novels/ch122-149.html">chapter 122-149(你别逼我上重口味的~真不放心啊)</a></li>
+<li><a class="text-hidden" href="{{ site.baseurl }}/novels/ch150-180.html">chapter 150-180(打~真特么爽)</a></li>
 <i>有待更新...</i>
 <br />
 <i>由于后面频繁出现田姓角色站长失去整理动力…缓慢更新……</i>
