@@ -23,8 +23,7 @@ layout: page
 <li><a class="text-hidden" href="{{ site.baseurl }}/novels/ch90-121.html">chapter 90-121(换人后遗症~矛盾化解)</a></li>
 <li><a class="text-hidden" href="{{ site.baseurl }}/novels/ch122-149.html">chapter 122-149(你别逼我上重口味的~真不放心啊)</a></li>
 <li><a class="text-hidden" href="{{ site.baseurl }}/novels/ch150-180.html">chapter 150-180(打~真特么爽)</a></li>
-<i>有待更新...</i>
-<br />
-<i>由于后面频繁出现田姓角色站长失去整理动力…缓慢更新……</i>
+<li><a class="text-hidden" href="{{ site.baseurl }}/novels/ch181-208.html">chapter 181-208(笑~一条短信引发的遐想)</a></li>
+<li><a class="text-hidden" href="{{ site.baseurl }}/novels/ch209-215.html">chapter 209-215+番外(追丈母娘~完结篇)</a></li>
 </div>
 
