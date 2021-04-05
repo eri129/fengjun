@@ -14,13 +14,18 @@ layout: page
 * [lof：峰哥在粉丝群cue俊俊 ](https://hudanni1221.lofter.com/post/1f6470a7_1cbb707b6)
 * [微博：他对他的影响](https://m.weibo.cn/6292672949/4613290137229798)
 * [豆瓣：关于俊俊看过原作小说这件事的传说](https://www.douban.com/group/topic/214354591/)
-
+* [有人考古到盛势黄河戏本来是有吻戏的](https://weibo.com/6495700212/K9xWIoiQ8)
 <div class="text-hidden">—— 我是硬糖分割线 ——</div> 
 
 * [微博：一些巧合：恭喜发财/波比跳/20年快本](https://weibo.com/1918328497/K8UW2Cib7)
 * [徐峰微博: 20210321 认得出是谁吗？](https://weibo.com/1802675712/K7euYxDnJ)
+* [徐峰网易云歌单](https://music.163.com/#/user/home?id=103738567) / [嗑点摘要](https://weibo.com/2734290312/K9wcP6Np8)
+
 ### [单人资源]({{ site.baseurl }}/afterwards.html) 
 <span class="test-hidden">随缘收录</span>
+
+### 其他
+* [国产腐剧教母柴鸡蛋 采访](https://www.bilibili.com/video/BV1hK411w7as) - 有提及龚俊(剧透:3号演员应该就是俊俊)
 
 <div class="line"></div>
 
