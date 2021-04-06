@@ -3,7 +3,7 @@ title: 更新记录
 layout: page
 ---
 
-[ 2021-04-05 ] 新增【更多】[徐峰网易云歌单](https://music.163.com/#/user/home?id=103738567)、[柴鸡蛋采访](https://www.bilibili.com/video/BV1hK411w7as)、[盛势黄河戏考古](https://weibo.com/6495700212/K9xWIoiQ8)
+[ 2021-04-05 ] 新增【更多】[徐峰网易云歌单](https://music.163.com/#/user/home?id=103738567)、[柴鸡蛋采访](https://www.bilibili.com/video/BV1hK411w7as)、[盛势黄河戏考古](https://weibo.com/6495700212/K9xWIoiQ8) 【关于】[俊俊QQ音乐歌单](https://y.qq.com/portal/profile.html?uin=7wCi7ioqoinA) 【物料】花絮 - [黄河杀青花絮](https://weibo.com/5530359102/K9BQgy7s6) 直播 - 更新大量直播片段
 
 <div class="line"></div>
 

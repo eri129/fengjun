@@ -27,3 +27,5 @@ layout: page
 * 抖音：[龚俊Simon(id:202484823)](https://v.douyin.com/eYFaSDy/)
 * Instagram: [gongjunhahaha](https://www.instagram.com/gongjunhahaha/)
 * 一直播：[龚俊simon](https://www.yizhibo.com/member/personel/user_info?memberid=79987516)
+* QQ音乐：[龚俊工作室](https://y.qq.com/portal/profile.html?uin=7wCi7ioqoinA)
+
