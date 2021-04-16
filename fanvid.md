@@ -13,6 +13,7 @@ permalink: /fanvid.html
 * [后来的我们 by鬼島蓮二郎](#-后来的我们bgm后来的我们)
 
 ### [粽妖剪辑](#粽妖剪辑-1)
+* [小幸运 by岳灵珊](#-小幸运)
 * [小妖要反攻！by carillua](#-小妖要反攻bgm周大侠)（BGM: 周大侠）
 * [盛势的俊俊是这样的 by暹罗星人](#-盛势的俊俊是这样的bgm空山新雨后)（BGM：空山新雨后）
 * [禁区 by黑心的草莓硬糖](https://www.bilibili.com/video/BV15A411i7Y7)
@@ -62,6 +63,10 @@ UP主：“封印在琥珀里的少年有很好地被珍藏起来。”
 
 
 ## 粽妖剪辑
+### ⇨ [小幸运](https://www.bilibili.com/video/BV1vW411p7u1)
+up主的调色太美好了
+<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=20818181&bvid=BV1vW411p7u1&cid=36622072&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
+
 ### ⇨ [小妖要反攻！](https://www.bilibili.com/video/BV1pW41147Sr)（BGM：周大侠）
 踩点好评！
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=20018555&bvid=BV1pW41147Sr&cid=32654452&page=1" frameborder="no" allowfullscreen="true"></iframe></div>

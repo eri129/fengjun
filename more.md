@@ -9,7 +9,7 @@ layout: page
 ### 嗑学家
 * [豆瓣豆列：关于盛势](https://www.douban.com/doulist/136966703/)
 * [豆瓣 ：他其实真的不会演戏 - 嗑花絮指南](https://www.douban.com/group/topic/213663222/)
-* [豆瓣：情侣ID考据](https://www.douban.com/group/topic/214848281/)
+* [豆瓣：情侣ID考据](https://www.douban.com/group/topic/214848281/) / [微博：俊俊以前另有英文名](https://m.weibo.cn/3769005235/4623479863774600)
 * [豆瓣高楼：微博互动考古](https://www.douban.com/group/topic/214578477/) / [微博视频：微博互动考古](https://m.weibo.cn/6292672949/4612959936972677) / [图片版：微博互动考古](https://weibo.com/2953812662/K5L8j9yo5)
 * [lof：峰哥在粉丝群cue俊俊 ](https://hudanni1221.lofter.com/post/1f6470a7_1cbb707b6)
 * [微博：他对他的影响](https://m.weibo.cn/6292672949/4613290137229798)
@@ -19,10 +19,9 @@ layout: page
 
 <div class="text-hidden">—— 我是硬糖分割线 ——</div> 
 
-* [微博：一些巧合：恭喜发财/波比跳/20年快本](https://weibo.com/1918328497/K8UW2Cib7)
+* [微博：一些巧合：恭喜发财/波比跳/20年快本](https://weibo.com/1918328497/K8UW2Cib7) / [俊俊波比跳示范](https://www.bilibili.com/video/BV1RK4y1J7Ca)
 * [微博：20210318 俊俊是家里人的称呼](https://weibo.com/6495677827/K6MKPjRhB)
 * [徐峰微博: 20210321 认得出是谁吗？](https://weibo.com/1802675712/K7euYxDnJ)
-* [徐峰网易云歌单](https://music.163.com/#/user/home?id=103738567) / [嗑点摘要](https://weibo.com/2734290312/K9wcP6Np8)
 * [Jason和Simon是某部电影里的一对情侣的名字](https://baike.baidu.com/item/%E5%91%A8%E6%9C%AB3%E5%A4%A9)
 * [微博：都喜欢旅游的两个人](https://weibo.com/6041248787/K9fuixqdS)
 

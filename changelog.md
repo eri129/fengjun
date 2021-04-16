@@ -3,6 +3,8 @@ title: 更新记录
 layout: page
 ---
 
+[ 2021-04-16 ] 修正链接，更新【物料】[盛势花絮](https://m.weibo.cn/status/4139642091505500)，【物料】[峰哥20210407直播]({{ site.baseurl }}/#-20210407-徐峰说和俊俊一直有联系)，17-18年徐峰一直播直播记录，【物料】[俊俊小红书推荐能量棒](https://www.bilibili.com/video/BV11v411Y7Ku)，【更多】-【单人资源】徐峰2018生日会演唱视频，【剪辑】[小幸运](https://www.bilibili.com/video/BV1vW411p7u1)
+
 [ 2021-04-05 ] 新增【更多】[徐峰网易云歌单](https://music.163.com/#/user/home?id=103738567)、[柴鸡蛋采访](https://www.bilibili.com/video/BV1hK411w7as)、[盛势黄河戏考古](https://weibo.com/6495700212/K9xWIoiQ8) 【关于】[俊俊QQ音乐歌单](https://y.qq.com/portal/profile.html?uin=7wCi7ioqoinA) 【物料】花絮 - [黄河杀青花絮](https://weibo.com/5530359102/K9BQgy7s6) 直播 - 更新大量直播片段
 
 <div class="line"></div>
