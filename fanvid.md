@@ -53,7 +53,8 @@ UP主：“封印在琥珀里的少年有很好地被珍藏起来。”
 那就是后来的我最想的
 无论是后来故事怎么了
 也要让后来人生精彩着
-***注意*** ：*有一点刀（虽然站长不觉得——人生只要有过至高的瞬间便不虚此行）*
+***注意*** ：*有一点刀*
+
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=332322087&bvid=BV1QA411N74s&cid=317167225&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 
@@ -64,11 +65,11 @@ UP主：“封印在琥珀里的少年有很好地被珍藏起来。”
 
 ## 粽妖剪辑
 ### ⇨ [小幸运](https://www.bilibili.com/video/BV1vW411p7u1)
-up主的调色太美好了
+up主的调色和叙事节奏太好了
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=20818181&bvid=BV1vW411p7u1&cid=36622072&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ [小妖要反攻！](https://www.bilibili.com/video/BV1pW41147Sr)（BGM：周大侠）
-踩点好评！
+up主是个干大事的人（踩点好评！）
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=20018555&bvid=BV1pW41147Sr&cid=32654452&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ [盛势的俊俊是这样的](https://www.bilibili.com/video/BV1q54y187Me)（BGM：空山新雨后）
@@ -87,7 +88,7 @@ up主的调色太美好了
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=23630836&bvid=BV1kp411d7ee&cid=39459315&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ [温客行：真不能怪我站错](https://www.bilibili.com/video/BV1Bp4y1H7qt)（BGM：广寒宫）
-站长看过的岭相关真的很少很少……这个还是早期看过的一个。<span class="text-hidden text-delete">PS：不、要、劝、美人、做1！</span>
+站长看过的岭相关真的很少很少……这个还是早期看过的一个。<span class="text-hidden text-delete">PS：不、要、逼、美人、做1！</span>
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=971995812&bvid=BV1Bp4y1H7qt&cid=304278366&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 
