@@ -9,6 +9,9 @@ layout: page
 ## 徐峰
 ### 广告
 ### 影视剧
+### 直播
+* [17-18年徐峰一直播合集](https://www.bilibili.com/video/BV1M64y1D7bg)
+
 ### 线下活动
 * [20180203 上海生日会 - 《天后》](https://www.bilibili.com/video/BV1Xs411376K) / [竖屏版](https://www.bilibili.com/video/BV1u54y187Lz)
 * [20180203 上海生日会 - 《可惜我是水瓶座》](https://www.bilibili.com/video/BV114411N7pi) / [竖屏版](https://www.bilibili.com/video/BV1PX4y1G7sx)
