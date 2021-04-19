@@ -3,7 +3,7 @@ title: 更新记录
 layout: page
 ---
 
-[ 2021-04-19 ] 新增【剪辑】峰俊 - [一笑倾城](https://www.bilibili.com/video/BV11U4y1b7zt/)，[再唱残酷月光](https://www.bilibili.com/video/BV1rK4y1m7pg)，[Sing张力](https://www.bilibili.com/video/BV1oi4y1A7SX)，盛势 - [撒野](https://www.bilibili.com/video/BV1xZ4y1P7bF)，[姐就是女王](https://www.bilibili.com/video/BV1UN41197GX)，[Super Psycho Love](https://www.bilibili.com/video/BV1FB4y1N7Ad)，[盛势糖分合集](https://www.bilibili.com/video/BV1gf4y1p7eT)，徐峰单人 - [嗜好](https://www.bilibili.com/video/BV13E411q7pC/) 【更多 - 单人资源】[17-18年徐峰一直播合集](https://www.bilibili.com/video/BV1M64y1D7bg)
+[ 2021-04-19 ] 新增【剪辑】峰俊 - [一笑倾城](https://www.bilibili.com/video/BV11U4y1b7zt/)，[再唱残酷月光](https://www.bilibili.com/video/BV1rK4y1m7pg)，[Sing张力](https://www.bilibili.com/video/BV1oi4y1A7SX)，盛势 - [撒野](https://www.bilibili.com/video/BV1xZ4y1P7bF)，[姐就是女王](https://www.bilibili.com/video/BV1UN41197GX)，[Super Psycho Love](https://www.bilibili.com/video/BV1FB4y1N7Ad)，[盛势糖分合集](https://www.bilibili.com/video/BV1gf4y1p7eT)，[热爱105℃的你](https://www.bilibili.com/video/BV1q5411w7Jc)，[美人的抬眼](https://www.bilibili.com/video/BV12y4y1t71D)，徐峰单人 - [嗜好](https://www.bilibili.com/video/BV13E411q7pC/) 【更多 - 单人资源】[17-18年徐峰一直播合集](https://www.bilibili.com/video/BV1M64y1D7bg)
 
 [ 2021-04-16 ] 修正链接，更新【物料】[盛势花絮](https://m.weibo.cn/status/4139642091505500)，【物料】[徐峰20210407直播]({{ site.baseurl }}/#-20210407-徐峰说和俊俊一直有联系)，17-18年徐峰一直播直播记录，【物料】[俊俊小红书推荐能量棒](https://www.bilibili.com/video/BV11v411Y7Ku)，【更多 - 单人资源】徐峰2018生日会演唱视频，【剪辑】[小幸运](https://www.bilibili.com/video/BV1vW411p7u1)
 

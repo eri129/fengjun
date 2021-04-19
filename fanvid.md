@@ -23,6 +23,8 @@ permalink: /fanvid.html
 * [小妖要反攻！by carillua](#-小妖要反攻bgm周大侠)（BGM: 周大侠）
 * [姐就是女王 by浮生安澜](#-姐就是女王bgm姐就是女王)
 * [盛势的俊俊是这样的 by暹罗星人](#-盛势的俊俊是这样的bgm空山新雨后)（BGM：空山新雨后）
+* 【直链】[可爱妖儿，在线祸纵 by一比一还原](https://www.bilibili.com/video/BV1q5411w7Jc)（BGM：热爱105℃的你）
+* 【直链】[夏耀 - 美人的抬眼](https://www.bilibili.com/video/BV12y4y1t71D)（BGM：Album Soon）
 * 【直链】[盛势糖分合集 by此愿-奇言](https://www.bilibili.com/video/BV1gf4y1p7eT)（BGM：所念皆星河纯音乐）*bgm真的很感人*
 * 【直链】[禁区 by黑心的草莓硬糖](https://www.bilibili.com/video/BV15A411i7Y7)
 * 【直链】[激情解说《盛势》\| 龚俊：谁还不曾是个烈女 by废人阿走](https://www.bilibili.com/video/BV1x64y1D7fc)
@@ -35,7 +37,6 @@ permalink: /fanvid.html
 ### 误解系剪辑
 等待着有太太剪出跨越时空的同框！<span class="text-hidden text-delete">（等到猴年马月也没人也许哪天站长就自己上了）</span>
 * [霸道总裁的落跑新娘（30s）](https://weibo.com/6292672949/K5K1l7R5M)
-
 
 
 <div class="line"></div>
