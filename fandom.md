@@ -27,6 +27,10 @@ layout: page
 ### 同人
 <span class="text-hidden">这个页面真的只是站长的个人收藏用：</span>[同人通道]({{ site.baseurl }}/fandom.html) 
 
+<span class="text-hidden text-delete">（等到猴年马月也没人也许哪天站长就自己上了）</span>
+
+
+
 ### gallery
 * [存动图1](https://www.douban.com/group/topic/213196055/) / [存动图2](https://www.douban.com/group/topic/212490643/) / [存动图3](https://www.douban.com/group/topic/214153399/) / [存动图4](https://www.douban.com/group/topic/212460825/) / [存动图5](https://www.douban.com/group/topic/214343772/)
 * [一个图楼](https://www.douban.com/group/topic/212707810/)

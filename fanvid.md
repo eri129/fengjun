@@ -35,9 +35,10 @@ permalink: /fanvid.html
 * 【直链】[徐峰 - 戒不掉的才叫“嗜好” by峰哥家的糖](https://www.bilibili.com/video/BV13E411q7pC)（BGM：嗜好）
 
 ### 误解系剪辑
-等待着有太太剪出跨越时空的同框！<span class="text-hidden text-delete">（等到猴年马月也没人也许哪天站长就自己上了）</span>
-* [霸道总裁的落跑新娘（30s）](https://weibo.com/6292672949/K5K1l7R5M)
-
+等待着有太太剪出跨越时空的同框！
+* [Young and Beautiful(1:21)](https://www.bilibili.com/video/BV1ob4y1D7WY)
+* [霸道总裁的落跑新娘(30s)](https://www.bilibili.com/video/BV1ah411Q7xQ)
+* [千年之恋(47s)](https://www.bilibili.com/video/BV1up4y1i7uQ)
 
 <div class="line"></div>
 

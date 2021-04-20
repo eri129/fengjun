@@ -25,11 +25,13 @@ layout: page
 <div class="iframe-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/VmFNOwn4e3I" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ Bilibili
+(经对比发现这一版全集仍然有删减，但应该是b站上比较全的了)
 [盛势1~5集](https://b23.tv/D2JQAt) / [6~10集](https://b23.tv/e0gXCx) / [11~15集](https://b23.tv/Z4VoZQ) / [16~20集](https://b23.tv/D1L0ae) / [21~25集](https://b23.tv/inNmNz) / [25~30集(大结局)](https://b23.tv/QNZkFf)
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=838645625&bvid=BV1Hg4y1v7qd&cid=207342907&page=1&high_quality=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ 网盘备份
-[传送门(lofter)](https://mo59782281.lofter.com/post/3181070b_1cbb5a02a)
+[百度云网盘链接](https://pan.baidu.com/s/17t0BYxMSXjyVFNXsoixmYQ)
+密码:l8a3
 
 <div class="line"></div>
 
