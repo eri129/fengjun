@@ -14,4 +14,4 @@ layout: page
 <div class="line"></div>
 
 ## 盛势照片
-* [《盛势写真集》视频版](https://www.bilibili.com/video/BV1ZW411e7QG/)
+* [《盛势写真集》视频版](https://www.bilibili.com/video/BV1wx41177Se)

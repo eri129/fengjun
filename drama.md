@@ -25,11 +25,12 @@ layout: page
 <div class="iframe-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/VmFNOwn4e3I" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ Bilibili
-(经对比发现这一版全集仍然有删减，但应该是b站上比较全的了)
+(这一版前半部分主要是夏耀cut，删减了部分袁纵单人和副cp剧情。到后面比较完整。胜在弹幕较多，配合弹幕食用更加美味)
 [盛势1~5集](https://b23.tv/D2JQAt) / [6~10集](https://b23.tv/e0gXCx) / [11~15集](https://b23.tv/Z4VoZQ) / [16~20集](https://b23.tv/D1L0ae) / [21~25集](https://b23.tv/inNmNz) / [25~30集(大结局)](https://b23.tv/QNZkFf)
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=838645625&bvid=BV1Hg4y1v7qd&cid=207342907&page=1&high_quality=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ 网盘备份
+*带有中剧独播台标*
 [百度云网盘链接](https://pan.baidu.com/s/17t0BYxMSXjyVFNXsoixmYQ)
 密码:l8a3
 

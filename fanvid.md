@@ -13,8 +13,7 @@ permalink: /fanvid.html
 * [祝你前程似锦 by鬼島蓮二郎](#-祝你前程似锦bgm爱在记忆中找你)（BGM: 爱在记忆中找你）
 * [后来的我们 by鬼島蓮二郎](#-后来的我们bgm后来的我们)
 * [一笑倾城 by站长自己](#-一笑倾城bgm一笑倾城)
-* 【直链】[再唱残酷月光 by鬼島蓮二郎](https://www.bilibili.com/video/BV1rK4y1m7pg)
-* 【直链】[Sing张力 by鬼島蓮二郎](https://www.bilibili.com/video/BV1oi4y1A7SX)
+* 【直链】[再唱残酷月光 by鬼島蓮二郎](https://www.bilibili.com/video/BV1rK4y1m7pg) / [Sing张力 by鬼島蓮二郎](https://www.bilibili.com/video/BV1oi4y1A7SX) /  [Young and Beautiful by鬼島蓮二郎](https://www.bilibili.com/video/BV1ob4y1D7WY)
 
 ### [盛势/粽妖剪辑](#盛势粽妖剪辑-1)
 * [撒野：我想在你眼里撒野奔跑 by灰绿色的糖](#-撒野bgm撒野)
@@ -32,11 +31,11 @@ permalink: /fanvid.html
 ### [单人剪辑](#单人剪辑-1)
 * [徐峰个人快剪 by粉丝后援会](#-徐峰个人快剪bgmdtm)（BGM：D.T.M）
 * [温客行 - 真不能怪我站错 byY易燃装置X](#-温客行真不能怪我站错bgm广寒宫)（BGM：广寒宫）
+* 【直链】[Down by大贵贵啊](https://www.bilibili.com/video/BV14B4y1A7AU) (《我家来了个怪男人》徐峰单人剪辑)
 * 【直链】[徐峰 - 戒不掉的才叫“嗜好” by峰哥家的糖](https://www.bilibili.com/video/BV13E411q7pC)（BGM：嗜好）
 
 ### 误解系剪辑
 等待着有太太剪出跨越时空的同框！
-* [Young and Beautiful(1:21)](https://www.bilibili.com/video/BV1ob4y1D7WY)
 * [霸道总裁的落跑新娘(30s)](https://www.bilibili.com/video/BV1ah411Q7xQ)
 * [千年之恋(47s)](https://www.bilibili.com/video/BV1up4y1i7uQ)
 
