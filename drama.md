@@ -8,6 +8,7 @@ layout: page
 * [《盛势》cut](#盛势cut)
 * [《势不可挡》广播剧](#势不可挡广播剧)
 * [剧情索引](#剧情索引)
+* [配乐](#配乐)
 
 ## 预告
 [《盛势》人物版先导预告片](https://www.bilibili.com/video/BV1Fs411k7v3) (原声) 
@@ -250,3 +251,21 @@ layout: page
 * 夏耀说给袁纵养脚趾头生下来
 * 病床上的对视
 （完）
+
+## 配乐
+
+![image-20210421143515624](https://tva1.sinaimg.cn/large/008i3skNly1gps2uw0mj8j30sm0func0.jpg)
+
+![image-20210421143621470](https://tva1.sinaimg.cn/large/008i3skNly1gps34ww03mj30xy0h2gxx.jpg)
+
+![image-20210421143718633](https://tva1.sinaimg.cn/large/008i3skNly1gps2x1e2foj30vm0j04ok.jpg)
+
+* [Everthing will say good bye](https://c.y.qq.com/base/fcgi-bin/u?__=BW6LON)
+* [野火](https://c.y.qq.com/base/fcgi-bin/u?__=TORQdcj)
+* [Love Sick](https://c.y.qq.com/base/fcgi-bin/u?__=U2gGzR)（朱婧汐)
+* [尘埃](https://c.y.qq.com/base/fcgi-bin/u?__=RDVh1e)
+* [月光](https://c.y.qq.com/base/fcgi-bin/u?__=kbI5RU)
+* [光](https://c.y.qq.com/base/fcgi-bin/u?__=xlG5RS)
+* [明白梦想](https://c.y.qq.com/base/fcgi-bin/u?__=FN6ssOX)
+* [I Remember Your Eyes](https://c.y.qq.com/base/fcgi-bin/u?__=Hts5R6)
+

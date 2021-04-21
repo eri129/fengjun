@@ -14,24 +14,25 @@ permalink: /fanvid.html
 * [后来的我们 by鬼島蓮二郎](#-后来的我们bgm后来的我们)
 * [一笑倾城 by站长自己](#-一笑倾城bgm一笑倾城)
 * 【直链】[再唱残酷月光 by鬼島蓮二郎](https://www.bilibili.com/video/BV1rK4y1m7pg) / [Sing张力 by鬼島蓮二郎](https://www.bilibili.com/video/BV1oi4y1A7SX) /  [Young and Beautiful by鬼島蓮二郎](https://www.bilibili.com/video/BV1ob4y1D7WY)
+* 【直链】[上天啊，难道你看不出我很爱他？ by不知名剪刀手](https://www.bilibili.com/video/BV1Vf4y1p7Yo) （BGM：阿拉斯加海湾 + 残酷月光）*残酷月光钢琴版是什么催泪大杀器*
 
 ### [盛势/粽妖剪辑](#盛势粽妖剪辑-1)
 * [撒野：我想在你眼里撒野奔跑 by灰绿色的糖](#-撒野bgm撒野)
 * [小幸运 by岳灵珊](#-小幸运bgm小幸运)
-* [这是一条被新浪挂掉的视频 by风小许就是小咕啾](#-这是一条被新浪挂掉的视频bgmsuper-psycho-love)（BGM：Super Psycho Love）
 * [小妖要反攻！by carillua](#-小妖要反攻bgm周大侠)（BGM: 周大侠）
 * [姐就是女王 by浮生安澜](#-姐就是女王bgm姐就是女王)
 * [盛势的俊俊是这样的 by暹罗星人](#-盛势的俊俊是这样的bgm空山新雨后)（BGM：空山新雨后）
 * 【直链】[可爱妖儿，在线祸纵 by一比一还原](https://www.bilibili.com/video/BV1q5411w7Jc)（BGM：热爱105℃的你）
 * 【直链】[夏耀 - 美人的抬眼](https://www.bilibili.com/video/BV12y4y1t71D)（BGM：Album Soon）
-* 【直链】[盛势糖分合集 by此愿-奇言](https://www.bilibili.com/video/BV1gf4y1p7eT)（BGM：所念皆星河纯音乐）*bgm真的很感人*
+* 【直链】[盛势糖分合集 by此愿-奇言](https://www.bilibili.com/video/BV1gf4y1p7eT)（BGM：所念皆星河纯音乐）*bgm感人*
+* 【直链】[这是一条被新浪挂掉的视频 by风小许就是小咕啾](https://www.bilibili.com/video/BV1FB4y1N7Ad)（BGM：Super Psycho Love）*色气向*
 * 【直链】[禁区 by黑心的草莓硬糖](https://www.bilibili.com/video/BV15A411i7Y7)
 * 【直链】[激情解说《盛势》\| 龚俊：谁还不曾是个烈女 by废人阿走](https://www.bilibili.com/video/BV1x64y1D7fc)
 
 ### [单人剪辑](#单人剪辑-1)
 * [徐峰个人快剪 by粉丝后援会](#-徐峰个人快剪bgmdtm)（BGM：D.T.M）
+* [Down by大贵贵啊](#-downbgmdown) (《我家来了个怪男人》徐峰单人剪辑)
 * [温客行 - 真不能怪我站错 byY易燃装置X](#-温客行真不能怪我站错bgm广寒宫)（BGM：广寒宫）
-* 【直链】[Down by大贵贵啊](https://www.bilibili.com/video/BV14B4y1A7AU) (《我家来了个怪男人》徐峰单人剪辑)
 * 【直链】[徐峰 - 戒不掉的才叫“嗜好” by峰哥家的糖](https://www.bilibili.com/video/BV13E411q7pC)（BGM：嗜好）
 
 ### 误解系剪辑
@@ -79,16 +80,12 @@ UP主：“封印在琥珀里的少年有很好地被珍藏起来。”
 ## 盛势/粽妖剪辑
 ### ⇨ [撒野](https://www.bilibili.com/video/BV1xZ4y1P7bF)（BGM：撒野）
 我想在你眼里撒野奔跑 我想一个眼神就到老
-*站长：这个bgm真的绝了*
+*这个bgm绝了，神仙剪辑*
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=374520455&bvid=BV1xZ4y1P7bF&cid=310241811&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ [小幸运](https://www.bilibili.com/video/BV1vW411p7u1)（BGM：小幸运）
 up主的调色和叙事节奏太好了
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=20818181&bvid=BV1vW411p7u1&cid=36622072&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
-
-### ⇨ [这是一条被新浪挂掉的视频](https://www.bilibili.com/video/BV1FB4y1N7Ad)（BGM：Super Psycho Love）
-色气向剪辑，up主非常会选素材，眼神戏把性张力拉满
-<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=587433607&bvid=BV1FB4y1N7Ad&cid=320618540&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ [小妖要反攻！](https://www.bilibili.com/video/BV1pW41147Sr)（BGM：周大侠）
 up主是个干大事的人（踩点好评！）
@@ -113,6 +110,10 @@ up主是个干大事的人（踩点好评！）
 ### ⇨ [徐峰个人快剪](https://www.bilibili.com/video/BV1kp411d7ee)（BGM：D.T.M）
 站长已经被帅到吐血而亡
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=23630836&bvid=BV1kp411d7ee&cid=39459315&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
+
+### ⇨ [Down](https://www.bilibili.com/video/BV14B4y1A7AU)（BGM：Down）
+弹钢琴的峰哥绝了，站长脑补出十万字同人文
+<div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=587687798&bvid=BV14B4y1A7AU&cid=326867773&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 ### ⇨ [温客行：真不能怪我站错](https://www.bilibili.com/video/BV1Bp4y1H7qt)（BGM：广寒宫）
 站长看过的岭相关真的很少很少……这个还是早期看过的一个。<span class="text-hidden text-delete">PS：不、要、逼、美人、做1！</span>
