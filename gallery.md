@@ -12,5 +12,5 @@ layout: page
 ## 盛势照片
 * [《盛势写真集》视频版](https://www.bilibili.com/video/BV1wx41177Se)
 * 盛势照片库
-{% include image-gallery-thumb.html folder="/assets/ss_gallery/making" %}
+{% include image-gallery.html folder="/assets/ss_gallery/thumbs" %}
 <div class="more"><a class="more" href="{{ site.baseurl }}/galleries/ss_gallery.html">...更多</a></div>

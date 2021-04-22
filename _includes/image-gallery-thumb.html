@@ -1,6 +1,6 @@
 <div class="image-gallery-box">
 <ul class="image-gallery">
-{% for file in site.static_files limit:10 %}
+{% for file in site.static_files limit:15 %}
 	{% if file.path contains include.folder %}
 		{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
 			{% assign filenameparts = file.path | split: "/" %}
