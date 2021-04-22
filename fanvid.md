@@ -28,6 +28,7 @@ permalink: /fanvid.html
 * 【直链】[这是一条被新浪挂掉的视频 by风小许就是小咕啾](https://www.bilibili.com/video/BV1FB4y1N7Ad)（BGM：Super Psycho Love）*色气向*
 * 【直链】[禁区 by黑心的草莓硬糖](https://www.bilibili.com/video/BV15A411i7Y7)
 * 【直链】[激情解说《盛势》\| 龚俊：谁还不曾是个烈女 by废人阿走](https://www.bilibili.com/video/BV1x64y1D7fc)
+* 【直链】[用东北方言和四川方言打开盛势](https://weibo.com/3200498577/G5cA7iRRF)
 
 ### [单人剪辑](#单人剪辑-1)
 * [徐峰个人快剪 by粉丝后援会](#-徐峰个人快剪bgmdtm)（BGM：D.T.M）
