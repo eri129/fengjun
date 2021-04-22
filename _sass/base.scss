@@ -148,7 +148,7 @@ h5 {
  */
 :not(.menu-content) > ul { list-style: none;  padding-left: 0; }
 :not(.menu-content) > ul { list-style-type: none; }
-:not(.menu-content) > ul > li:before { content: "-";  margin-right: 9px; }
+:not(.menu-content,.image-gallery-box) > ul > li:before { content: "-";  margin-right: 9px; }
 
 /**
  * Header/Navigation
@@ -426,3 +426,11 @@ transform-origin: 50% 50%;
     -ms-user-select: none;      
     user-select: none;
 }
+
+.image-gallery {list-style-type: none; overflow: auto; margin-left: -1%!important;}
+.image-gallery li { list-style-type: none; float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+.image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+.image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+.image-gallery li a img {width: 100%; display: block;}
+
+
