@@ -3,6 +3,8 @@ title: 盛势图集
 layout: post
 ---
 
+图源见水印。仅为个人收藏浏览，如有侵权请联系站长。
+
 #### 索引
 * [剧照](#剧照)
 * [花絮/合照](#花絮合照)
@@ -19,6 +21,7 @@ layout: post
 {% include image-gallery.html folder="/assets/ss_gallery/making" %}
 
 ## 见面会
+线下活动的一些低清单人照和素人露脸合照暂不收录
 {% include image-gallery.html folder="/assets/ss_gallery/event" %}
 
 ## 宣传海报
