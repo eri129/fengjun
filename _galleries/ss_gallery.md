@@ -18,6 +18,8 @@ layout: post
 ## 花絮/合照
 {% include image-gallery.html folder="/assets/ss_gallery/making" %}
 
+
+
 ## 见面会
 {% include image-gallery.html folder="/assets/ss_gallery/event" %}
 
