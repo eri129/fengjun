@@ -2,6 +2,7 @@
 title: 更新记录
 layout: page
 ---
+[ 2021-04-22 ~ ] 更新【图集】排版，更新大量盛势图片
 
 [ 2021-04-21 ] 更新【图集】[盛势写真集视频](https://www.bilibili.com/video/BV1wx41177Se)，新增【更多 - 单人】俊俊影视剧、物料、综艺等cut链接，龚俊部分物料，【剪辑】[Down](https://www.bilibili.com/video/BV14B4y1A7AU)，[上天啊，难道你看不出我很爱他？](https://www.bilibili.com/video/BV1Vf4y1p7Yo) ，新增【正剧】配乐，更新【图集】盛势图集
 
@@ -40,11 +41,10 @@ layout: page
 <div class="line"></div>
 图片收集进度：
 * **√ 盛势官博**
-* 徐峰微博
+* **√ 徐峰微博，徐峰ins，徐峰相关工作微博**
 * 龚俊微博
-* 徐峰ins
 * 龚俊ins
-* 其他演职人员微博
-* 粉丝微博/ins
+* **√ 其他演职人员微博**
+* 粉丝/素人微博/ins
 * 盛势截修图
 * 盛势/峰俊超话
