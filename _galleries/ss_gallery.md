@@ -11,6 +11,7 @@ layout: post
 * [见面会/线下活动](#见面会)
 * [宣传海报](#宣传海报)
 * [截修](#截修)
+* [其他角色](#其他角色)
 * [官方表情包](https://weibo.com/5748590698/G4UMybyde)
 
 <div class="line"></div>
@@ -21,7 +22,8 @@ layout: post
 {% include image-gallery.html folder="/assets/ss_gallery/making" %}
 
 ## 见面会
-线下活动的一些低清单人照和素人露脸合照暂不收录
+一些质量较低的自拍以及素人合照暂不收录
+[饭拍/应援站照片]({{ site.baseurl }}/galleries/photobyfans.html)
 {% include image-gallery.html folder="/assets/ss_gallery/event" %}
 
 ## 宣传海报
@@ -29,3 +31,7 @@ layout: post
 
 ## 截修
 {% include image-gallery.html folder="/assets/ss_gallery/screenshot" %}
+
+## 其他角色
+{% include image-gallery.html folder="/assets/ss_gallery/others" %}
+
