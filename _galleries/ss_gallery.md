@@ -8,6 +8,7 @@ layout: post
 #### 索引
 * [剧照](#剧照)
 * [花絮/合照](#花絮合照)
+* [写真集](#写真集)
 * [拍摄掠影](#拍摄掠影)
 * [见面会/线下活动](#见面会)
 * [宣传海报](#宣传海报)
@@ -21,6 +22,10 @@ layout: post
 
 ## 花絮/合照
 {% include image-gallery.html folder="/assets/ss_gallery/twoshot" %}
+
+## 写真集
+仅陈列粽子妖儿部分，图源@彦彦Style - [《盛势写真集》视频版](https://www.bilibili.com/video/BV1wx41177Se)
+{% include image-gallery.html folder="/assets/ss_gallery/photobook" %}
 
 ## 拍摄掠影
 {% include image-gallery.html folder="/assets/ss_gallery/making" %}
