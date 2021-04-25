@@ -8,10 +8,11 @@ layout: post
 #### 索引
 * [剧照](#剧照)
 * [花絮/合照](#花絮合照)
+* [拍摄掠影](#拍摄掠影)
 * [见面会/线下活动](#见面会)
 * [宣传海报](#宣传海报)
 * [截修](#截修)
-* [其他角色](#其他角色)
+* [其他](#其他)
 * [官方表情包](https://weibo.com/5748590698/G4UMybyde)
 
 <div class="line"></div>
@@ -19,6 +20,9 @@ layout: post
 {% include image-gallery.html folder="/assets/ss_gallery/still" %}
 
 ## 花絮/合照
+{% include image-gallery.html folder="/assets/ss_gallery/twoshot" %}
+
+## 拍摄掠影
 {% include image-gallery.html folder="/assets/ss_gallery/making" %}
 
 ## 见面会
@@ -32,6 +36,6 @@ layout: post
 ## 截修
 {% include image-gallery.html folder="/assets/ss_gallery/screenshot" %}
 
-## 其他角色
+## 其他
 {% include image-gallery.html folder="/assets/ss_gallery/others" %}
 
