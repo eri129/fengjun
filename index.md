@@ -20,6 +20,7 @@ permalink: /
 * [妖儿一笑倾城](#-妖儿一笑倾城)
 * [没见过的盛势花絮](https://m.weibo.cn/status/4139642091505500)
 * [盛势小剧场:还不快去做饭](#-盛势小剧场还不快去做饭)
+* [峰哥雨中打戏小花絮](https://m.weibo.cn/1802675712/4149358666062100)
 * [CHOCO TV单人宣传](https://www.bilibili.com/video/BV16W41177e9) / [俊俊中秋宣传](https://www.bilibili.com/video/BV1Ms411475J?p=1)
 * [一些零散花絮](https://www.bilibili.com/video/BV1Ms411475J) / [泳池戏摄影机花絮](https://www.bilibili.com/video/BV1sx411i7jr?p=4) / [王治禹水花絮](https://weibo.com/5991275780/FjPm6lgxT)
 ### [点映会/见面会](#点映会见面会-1)
