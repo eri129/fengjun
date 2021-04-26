@@ -42,5 +42,6 @@ layout: post
 {% include image-gallery.html folder="/assets/ss_gallery/screenshot" %}
 
 ## 其他
-{% include image-gallery.html folder="/assets/ss_gallery/others" %}
-
+其他角色/演职人员的图
+{% include image-gallery.html folder="/assets/ss_gallery/thumbnail/02" %}
+<div class="more"><a class="more" href="{{ site.baseurl }}/galleries/others.html">...更多</a></div>
