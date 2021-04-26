@@ -27,9 +27,6 @@ layout: post
 仅陈列粽子妖儿部分，图源@彦彦Style - [《盛势写真集》视频版](https://www.bilibili.com/video/BV1wx41177Se)
 {% include image-gallery.html folder="/assets/ss_gallery/photobook" %}
 
-## test
-{% include image-gallery.html folder="/assets/ss_gallery/photobook2" %}
-
 ## 拍摄掠影
 {% include image-gallery.html folder="/assets/ss_gallery/making" %}
 
